@@ -1,0 +1,22 @@
+.navbar{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 30px;
+}
+.navbar ul{
+  display: flex;
+  gap: 15px;
+  list-style: none;
+}
+.all_cards{
+  display: flex;
+  
+  justify-content: space-between;
+}
+.card{
+  border: 1px solid black;
+}
+.card image{
+  border: 1px solid black;
+}
